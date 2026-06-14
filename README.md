@@ -63,4 +63,7 @@ The Spotify Analytics Dashboard was designed to:
 
 6. Screenshots / Demos
 Show what the dashboard looks like. Example:
-https://github.com/vaishnavigadage13/Spotify-Analysis-Dashboard/blob/main/Spotify.png
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vaishnavigadage13/Spotify-Analysis-Dashboard/main/Spotify.png" alt="Spotify Analytics Dashboard" width="1000"/>
+</p>
